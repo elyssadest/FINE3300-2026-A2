@@ -3,10 +3,10 @@
 
 FINE 3300 Assignment 2: Enhanced Inflation Calculator using Bank of Canada CPI data
 
-# Monthly Inflation Calculator
+# Monthly Canadian Inflation Calculator
 
 ## Description
-This code enhances the Bank of Canada inflation calculator. This calculator allows the user to compare prices between any two months from January 1914 to September 2026.
+This calculator allows the user to compare prices between any two months from January 1914 to September 2026, using the Bank of Canada's monthly CPI data.
 
 ## How It Works:
 - Reads the Bank of Canada CPI file
@@ -21,15 +21,15 @@ Keep the CSV file in the same folder as the code, then run all the cells in orde
 ![alt text](cpi_graph.png)
 
 ## Graph Insights:
-- *1920-1921:* The annual % change dipped heavily right after a big spike in 1920, and the CPI dropped before it continued to rise gradually.
+- *1920-1921:* The annual % change dipped heavily right after a big spike in 1920 while the CPI continued to rise gradually.
 - *1930s:* The annual % change went negative for a few years during the Great Depression as prices were decreasing.
 - *1970s-1980s:* The annual % change was consistently high for many years.
 - *2021-2022:* The annual % change spiked recently, the highest in about 40 years.
 
 ## Sample Output
-A basket of goods and services that cost: $ 100.0 in 2000-01 would cost: $ 176.47 in 2026-01
-Percent change: 76.47
-Number of years: 26
-Average annual rate of inflation (%): 2.21
-CPI for first date: (2000-01) 93.5
-CPI for second date: (2026-01) 165.0
+- A basket of goods and services that cost: $ 100.0 in 2000-01 would cost: $ 176.47 in 2026-01
+- Percent change: 76.47
+- Number of years: 26
+- Average annual rate of inflation (%): 2.21
+- CPI for first date: (2000-01) 93.5
+- CPI for second date: (2026-01) 165.0
