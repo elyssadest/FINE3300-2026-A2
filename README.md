@@ -6,7 +6,7 @@ FINE 3300 Assignment 2: Enhanced Inflation Calculator using Bank of Canada CPI d
 # Monthly Canadian Inflation Calculator
 
 ## Description
-This calculator allows the user to compare prices between any two months from January 1914 to September 2026, using the Bank of Canada's monthly CPI data.
+This calculator lets user to compare prices between any two months from January 1914 to September 2026, using the Bank of Canada's monthly CPI data.
 
 ## How It Works:
 - Reads the Bank of Canada CPI file
@@ -20,7 +20,7 @@ Keep the CSV file in the same folder as the code, then run all the cells in orde
 ## CPI Graph
 ![alt text](cpi_graph.png)
 
-The graph shows Canada's CPI from 1914 to 2026 (blue line) and the annual % change in CPI (green line). The dotted line marks the base level, where 2002 CPI = 100. The CPI stayed fairly flat until the 1940s, then rose faster after the 1970s, reaching about 170 in 2026. This highlights that prices today are roughly 28 times higher than in 1914. The annual pervent chnage has stayed closer to 2% since the 1990s, apart from the recent spike. 
+The graph shows Canada's CPI from 1914 to 2026 (blue line) and the annual % change in CPI (green line). The dotted line marks the base level, where 2002 CPI = 100. The CPI stayed fairly flat until the 1940s, then rose faster after the 1970s, reaching about 170 in 2026. This highlights that prices today are roughly 28 times higher than in 1914. The annual percent change has stayed closer to 2% since the 1990s, apart from the recent spike. 
 
 ## Graph Insights:
 - *1920-1921:* The annual % change dipped heavily right after a big spike in 1920 while the CPI continued to rise gradually. Prices rose during and after World War I, then fell once the war ended and the economy slowed.
