@@ -20,11 +20,13 @@ Keep the CSV file in the same folder as the code, then run all the cells in orde
 ## CPI Graph
 ![alt text](cpi_graph.png)
 
+The graph shows Canada's CPI from 1914 to 2026 (blue line) and the annual % change in CPI (green line). The dotted line marks the base level, where 2002 CPI = 100. The CPI stayed fairly flat until the 1940s, then rose faster after the 1970s, reaching about 170 in 2026. This highlights that prices today are roughly 28 times higher than in 1914. The annual pervent chnage has stayed closer to 2% since the 1990s, apart from the recent spike. 
+
 ## Graph Insights:
-- *1920-1921:* The annual % change dipped heavily right after a big spike in 1920 while the CPI continued to rise gradually.
-- *1930s:* The annual % change went negative for a few years during the Great Depression as prices were decreasing.
+- *1920-1921:* The annual % change dipped heavily right after a big spike in 1920 while the CPI continued to rise gradually. Prices rose during and after World War I, then fell once the war ended and the economy slowed.
+- *1930s:* The annual % change went negative for a few years during the Great Depression as prices were decreasing. Many people lost their jobs and spent less, so businesses had to lower their prices.
 - *1970s-1980s:* The annual % change was consistently high for many years.
-- *2021-2022:* The annual % change spiked recently, the highest in about 40 years.
+- *2021-2022:* The annual % change spiked recently, the highest in about 40 years. After COVID 19, people started spending more.
 
 ## Sample Output
 - A basket of goods and services that cost: $ 100.0 in 2000-01 would cost: $ 176.47 in 2026-01
